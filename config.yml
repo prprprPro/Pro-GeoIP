@@ -1,0 +1,3 @@
+Version: 1.0.0
+Database:
+  DownloadURL: "http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz"

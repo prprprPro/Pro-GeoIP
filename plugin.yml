@@ -1,0 +1,4 @@
+name: Pro-GeoIP
+main: cn.szzxol.pro.geoip.GeoIP
+version: 1.0.0
+author: I_promise
